@@ -1,0 +1,4 @@
+com/ariana/app/runners/Sumar.java
+ com.ariana.app.runners.Sumar
+com/ariana/app/stepdefinitions/SumarStepDefinitions.java
+ com.ariana.app.stepdefinitions.SumarStepDefinitions
